@@ -11,4 +11,3 @@ window.onscroll = function() {
 }
 $(`.circlechart`).circlechart();
 
-
