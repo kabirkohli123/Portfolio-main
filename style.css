@@ -524,7 +524,7 @@ img {
 }
 
 .html5 {
-  background: url("./images/htmlcss.jpg") no-repeat center / cover;
+  background: url("/images/htmlcss.jpg") no-repeat center / cover;
 }
 
 .bootstrap {
